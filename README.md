@@ -1,2 +1,3 @@
-# miniRaytracing
-C언어로 구현한 Raytracing입니다.
+https://raytracing.github.io/books/RayTracingInOneWeekend.html
+
+2021.4.10 : 9.5 까지 함
