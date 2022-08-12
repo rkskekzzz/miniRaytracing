@@ -7,11 +7,16 @@
 
 # How to Start
 
-```
+```shell
 git clone https://github.com/rkskekzzz/miniRaytracing.git
 cd miniRaytracing
 make
+./miniRT maps/map1.rt
 ```
+
+- maps 폴더의 map.rt 파일을 사용하거나 수정하여 실행할 수 있습니다.
+
+- make가 안되는 경우 srcs/mlx 디렉토리에서 `make`를 한번 실행해주세요
 
 # Description
 
